@@ -1,2 +1,2 @@
-# crs-bot
-Bot Discord CRS
+# astidda-bot
+Bot Discord ASTIDDA
